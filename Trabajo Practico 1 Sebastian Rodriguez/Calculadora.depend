@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1553605091 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/Clase18/Calculadora/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1553605947 /home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/Clase18/Calculadora/Operaciones.h
+
+1553606406 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/Clase18/Calculadora/Operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1553605090 source:c:\users\alumno\downloads\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1554392315 c:\users\alumno\downloads\calculadora\operaciones.h
+
+1554392309 source:c:\users\alumno\downloads\calculadora\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
