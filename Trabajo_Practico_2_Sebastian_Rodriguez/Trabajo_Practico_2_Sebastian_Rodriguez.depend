@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1555269602 source:c:\users\sebastian\desktop\trabajos practicos\trabajo_practico_2_sebastian_rodriguez\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ArrayEmployees.h"
+
+1555257009 c:\users\sebastian\desktop\trabajos practicos\trabajo_practico_2_sebastian_rodriguez\arrayemployees.h
+
+1555257009 source:c:\users\sebastian\desktop\trabajos practicos\trabajo_practico_2_sebastian_rodriguez\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
