@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1557534307 source:c:\users\sebastian\desktop\trabajos practicos\trabajo practico 2 sebastian rodriguez\fload.c
+	<stdio.h>
+	<stdlib.h>
+	"fLoad.h"
+
+1557531854 c:\users\sebastian\desktop\trabajos practicos\trabajo practico 2 sebastian rodriguez\fload.h
+
+1557538104 source:c:\users\sebastian\desktop\trabajos practicos\trabajo practico 2 sebastian rodriguez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fload.h"
+	"employee.h"
+
+1557538569 c:\users\sebastian\desktop\trabajos practicos\trabajo practico 2 sebastian rodriguez\employee.h
+
+1557538474 source:c:\users\sebastian\desktop\trabajos practicos\trabajo practico 2 sebastian rodriguez\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"employee.h"
+	"fload.h"
+
